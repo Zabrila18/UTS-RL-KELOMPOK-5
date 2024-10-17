@@ -41,4 +41,4 @@ Proyek ini memerlukan beberapa pustaka berikut:
 
 ## Cara Memanggil Codingan
 1. Pip Install Requirements.txt
-2. Pyhton q_learning_breokout.py
+2. Python q_learning_breakout.py
