@@ -3,7 +3,7 @@
 2. Esti Asmareta Ayu
 3. Zabrila Amrina Zadia Putri
 
-[Submit an issue] https://github.com/Zabrila18/UTS-RL-KELOMPOK-5/issues/2#issue-2593497167
+[Submit an issue](https://github.com/Zabrila18/UTS-RL-KELOMPOK-5/issues/2#issue-2593497167)
 
 ## Pengantar
 
