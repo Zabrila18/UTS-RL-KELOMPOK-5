@@ -39,4 +39,6 @@ Proyek ini memerlukan beberapa pustaka berikut:
 - **Pygame**: Untuk menampilkan lingkungan permainan.
 - **Matplotlib**: Untuk memvisualisasikan perkembangan pembelajaran agen.
 
-## Cara
+## Cara Memanggil Codingan
+1. Pip Install Requirements.txt
+2. Pyhton q_learning_breokout.py
