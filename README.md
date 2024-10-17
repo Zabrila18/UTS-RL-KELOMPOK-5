@@ -3,7 +3,7 @@
 2. Esti Asmareta Ayu
 3. Zabrila Amrina Zadia Putri
 
-[] (https://github.com/user-attachments/assets/020688de-1a0c-4706-aaa0-ba0cb0927ccd)
+[](https://github.com/user-attachments/assets/020688de-1a0c-4706-aaa0-ba0cb0927ccd)
 
 ## Pengantar
 
