@@ -3,7 +3,7 @@
 2. Esti Asmareta Ayu
 3. Zabrila Amrina Zadia Putri
 
-[Watch the video] (https://github.com/Zabrila18/UTS-RL-KELOMPOK-5/issues/2#issue-2593497167)
+[] (https://github.com/user-attachments/assets/020688de-1a0c-4706-aaa0-ba0cb0927ccd)
 
 ## Pengantar
 
