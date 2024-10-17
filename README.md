@@ -1,7 +1,7 @@
 # UTS-RL-KELOMPOK-5
-1. Kahfi Zairan Maulana
-2. Esti Asmareta Ayu
-3. Zabrila Amrina Zadia Putri
+1. Kahfi Zairan Maulana G1A021041
+2. Esti Asmareta Ayu G1A021042
+3. Zabrila Amrina Zadia Putri G1A021053
 
 [](https://github.com/user-attachments/assets/020688de-1a0c-4706-aaa0-ba0cb0927ccd)
 
