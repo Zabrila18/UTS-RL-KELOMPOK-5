@@ -3,6 +3,8 @@
 2. Esti Asmareta Ayu
 3. Zabrila Amrina Zadia Putri
 
+[Submit an issue] https://github.com/Zabrila18/UTS-RL-KELOMPOK-5/issues/1#issue-2593491671
+
 ## Pengantar
 
 Proyek ini mengimplementasikan agen **Q-learning** sederhana untuk memainkan game pemecah bata (brick-breaking) menggunakan PyTorch dan Pygame. Agen tersebut belajar mengendalikan paddle dengan tujuan menghancurkan bata dengan memantulkan bola. **Q-learning** adalah algoritma *reinforcement learning* yang memungkinkan agen untuk belajar dari interaksi dengan lingkungannya agar dapat memaksimalkan total reward (hadiah) dari waktu ke waktu.
@@ -36,3 +38,5 @@ Proyek ini memerlukan beberapa pustaka berikut:
 - **PyTorch**: Untuk membangun dan melatih Q-network.
 - **Pygame**: Untuk menampilkan lingkungan permainan.
 - **Matplotlib**: Untuk memvisualisasikan perkembangan pembelajaran agen.
+
+## Cara
